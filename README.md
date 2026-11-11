@@ -1,1 +1,1 @@
-# hybrid-battery-charging-optimization
+# Hybrid Battery Charging Optimization
